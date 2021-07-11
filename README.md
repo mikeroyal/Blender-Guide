@@ -28,7 +28,6 @@
   <br />
 </p>
 
-**Compositing a 3D scene in Blender. Source:[Blender](https://www.blender.org/features/vfx/)**
 
 ## Blender Learning Resources
 [Back to the Top](https://github.com/mikeroyal/Blender-Guide#table-of-contents)
