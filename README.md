@@ -533,11 +533,11 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
   <br />
 </p>
 
-**[Blender 3.1 Adds Native Metal Support in Cycles](https://wiki.blender.org/wiki/Reference/Release_Notes/3.1/Cycles)**
-
 ## Metal Learning Resources
 
 [Metal](https://developer.apple.com/metal/) is a low-level API that provides a platform-optimized, low-overhead API for developing the latest 3D pro applications and amazing games using a rich shading language with tighter integration between graphics and compute programs. To help you do more while managing ever more complex shader code, Metal adds an unparalleled suite of advanced GPU debugging tools to help you realize the full potential of your graphics code.
+
+**[Blender 3.1 Adds Native Metal Support in Cycles](https://wiki.blender.org/wiki/Reference/Release_Notes/3.1/Cycles)**
 
 [Apple Developer Documentation](https://developer.apple.com/documentation)
 
