@@ -23,18 +23,13 @@
 
 4. [Augmented Reality (AR) & Virtual Reality (VR)](https://github.com/mikeroyal/Blender-Guide#augmented-reality-ar--virtual-reality-vr)
  
-6. [Vulkan Development](https://github.com/mikeroyal/Blender-Guide#vulkan-development)
+5. [Vulkan Development](https://github.com/mikeroyal/Blender-Guide#vulkan-development)
 
-7. [OpenGL Development](https://github.com/mikeroyal/Blender-Guide#opengl-development)
+6. [OpenGL Development](https://github.com/mikeroyal/Blender-Guide#opengl-development)
 
-8. [DirectX Development](https://github.com/mikeroyal/Blender-Guide#directx-development)
+7. [DirectX Development](https://github.com/mikeroyal/Blender-Guide#directx-development)
 
-7. [Metal Development](https://github.com/mikeroyal/Blender-Guide#metal-development)
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/104788139-401e8000-5746-11eb-9647-058dee01a00e.png">
-  <br />
-</p>
+8. [Metal Development](https://github.com/mikeroyal/Blender-Guide#metal-development)
 
 
 ## Blender Learning Resources
@@ -77,6 +72,11 @@
 
 [Blender](https://www.blender.org) comes packed with import/export support for many different programs.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/104788139-401e8000-5746-11eb-9647-058dee01a00e.png">
+  <br />
+</p>
+
 Including:
 
     - Image(JPEG, JPEG2000, PNG, TARGA, OpenEXR, DPX, Cineon, Radiance HDR, SGI Iris, TIFF)
@@ -93,7 +93,7 @@ Including:
   <br />
 </p>
 
-**Eevee final render – “Temple”. Source:[Dominik Graf](https://docs.blender.org/manual/en/latest/render/eevee/introduction.html#id2)**
+**Eevee final render – “Temple”. Source: [Dominik Graf](https://docs.blender.org/manual/en/latest/render/eevee/introduction.html#id2)**
 
 [Cycles](https://www.blender.org/features/rendering/) is Blender’s ray-trace based production render engine.
 
