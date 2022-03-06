@@ -237,6 +237,11 @@ Render-layer support. Along with the ability to render to multiLayer OpenEXR fil
 # Augmented Reality (AR) & Virtual Reality (VR)
 [Back to the Top](https://github.com/mikeroyal/Blender-Guide#table-of-contents)
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/130368380-37b7c0cd-ed71-4a52-8b16-4ac802e059d4.png">
+  <br />
+</p>
+
 **[VR Scene Inspection — Blender Manual](https://docs.blender.org/manual/en/latest/addons/3d_view/vr_scene_inspection.html)**
 
 [MARUI](https://www.marui-plugin.com/blender-xr/) is a plugin for Autodesk Maya that allows you to create 3D design in VR/AR for Blender.
